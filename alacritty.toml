@@ -1,6 +1,9 @@
 [colors]
 draw_bold_text_with_bright_colors = false
 
+[terminal]
+osc52 = "CopyPaste"
+
 [[keyboard.bindings]]
 action = "Paste"
 key = "V"
